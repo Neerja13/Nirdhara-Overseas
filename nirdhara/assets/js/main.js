@@ -17,7 +17,7 @@
         <a class="skip" href="#main">Skip to content</a>
         <div class="topbar"><div class="wrap">
             <a href="${C.instagram}" target="_blank" rel="noopener" aria-label="Instagram">${ICON.instagram}</a>
-            <a href="mailto:${C.email}" aria-label="Email us">${ICON.email}</a>
+            <a href="contact.html#quote" aria-label="Send us an enquiry">${ICON.email}</a>
             <a href="${C.facebook}" target="_blank" rel="noopener" aria-label="Facebook">${ICON.facebook}</a>
           
             <!-- <a href="tel:${C.phone1.replace(/\s/g, "")}" aria-label="Call us">${ICON.phone}</a> --></div></div>
